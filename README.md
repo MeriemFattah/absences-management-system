@@ -19,7 +19,7 @@ Absence Management System is a web application developed using JDBC, Jakarta EE,
 - MySQL (or your database of choice)
 
 ## Setup Instructions
-1. Clone the repository: `https://github.com/MeriemFattah/absences-management-system`
+1. Clone the repository: `git clone https://github.com/MeriemFattah/absences-management-system`
 2. Import the project into your IDE.
 3. Configure the database connection in your application server.
 4. Deploy the application on a Jakarta EE compatible server (e.g., Apache Tomcat).
